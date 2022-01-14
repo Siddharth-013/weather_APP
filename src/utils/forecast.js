@@ -7,7 +7,7 @@ const forecast = (latitude, longitude, callback) => {
     latitude +
     "," +
     longitude +
-    "&units=f";
+    "&units=f"
 
 
   //==================  USING DESTRUCTRING======================
