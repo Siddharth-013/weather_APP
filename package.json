@@ -18,5 +18,13 @@
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth-013/Node_Api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Siddharth-013/Node_Api/issues"
+  },
+  "homepage": "https://github.com/Siddharth-013/Node_Api#readme",
   "description": ""
 }
